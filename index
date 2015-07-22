@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color:#80ff83}
+h1   {color:black}
+p {
+	font-family:arial;
+	
+}
+
+#alignleft {
+	float: left;
+	width: 50%;
+}
+#alignright {
+	float: right;	
+	width: 50%;
+}
+
+#header {
+	background-color:white;
+	color:#434343;
+	width:60%;
+	margin-left:20%;
+	margin-right:20%;
+	margin-top:30px;
+	text-align:center;
+}
+#content {
+	background-color:white;
+	color:#434343;
+	width:50%;
+	margin-left:20%;
+	margin-right:20%;
+	padding-left:5%;
+	padding-right:5%;
+	text-align:center;
+	height:1000px;
+}
+
+</style>
+<title>Sports</title>
+</head>
+<body>
+
+
+<div id="header">
+<a href="index.html" border:0>
+	<img src="banner.png" alt="sports" width="60%">
+</a>
+<br>
+<a href="football.html">
+	<img src="football.png" alt="football" width="18%">
+</a>
+
+<a href="rugby.html">
+	<img src="rugby.png" alt="rugby" width="18%">
+</a>
+
+<a href="netball.html">
+	<img src="netball.png" alt="netball" width="18%">
+</a>
+
+<a href="basketball.html">
+	<img src="basketball.png" alt="basketball" width="18%">
+</a>
+
+<a href="tournaments.html">
+	<img src="tournaments.png" alt="tournaments" width="18%">
+</a>
+
+</div>
+
+<div id="content">
+<br>
+<p id="alignleft"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur et nisi ante. Maecenas nunc eros, blandit eu lobortis at, tempus sit amet est. Interdum et malesuada fames ac ante ipsum primis in faucibus. In commodo urna ut ante pulvinar, vel consequat justo rutrum. Cras arcu felis, molestie quis enim quis, commodo dictum lectus. Aenean vulputate massa odio, convallis dignissim diam sollicitudin non. Curabitur lobortis a magna eu vestibulum. Donec cursus nisi lacus, in dignissim justo gravida sit amet. </p>
+
+<p id="alignleft"> <script id="feed-1437560729382670" type="text/javascript" src="http://rss.bloople.net/?url=http%3A%2F%2Fvle.southessex.ac.uk%2Frss%2Ffile.php%2F1%2F59317cfdb0c207cae509e109b8c41cd0%2Fblog%2Fuser%2F1355%2Frss.xml&detail=-1&showtitle=false&type=js&id=1437560729382670"></script> </p>
+
+
+</body>
+</html>
